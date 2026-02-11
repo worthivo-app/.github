@@ -72,3 +72,4 @@ Worthivo is an intelligent lifestyle assistant powered by **Google Gemini 2.0 Fl
 ### [🚀 View Mobile Repository Code](https://github.com/worthivo-app/worthivo-mobile-flutter)
 ### [📄 View Technical Document](https://docs.google.com/document/d/1ulI9W9vcp_jHqG3QNkVedGnWm3EOwSy1ZgTB6cxc1C4/edit?usp=sharing)
 ### [📲 Join Internal Test (Google Play)](https://play.google.com/apps/internaltest/4701586129952390384)
+### [📺 Watch App Demo Video](https://youtu.be/GYiUByuUvHU?si=MRo3nYe9bKmsy5qH)
